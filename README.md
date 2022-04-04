@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose is well defined (2 pt)
+This initiative works on improving the web experience for users accessing the UFO Sightings webpage.  This is achieved by modifying the HTML and Javascript code to allow for multi-criteria search.  Previously, users could only search by date and with this update they can now search by state, country and shape as well.  Figure 1 shows the update page.
 
 ***Figure 1: UFO Sightings Website***
 ![UFO Sightings](/static/images/UFO_Sightings.png)
