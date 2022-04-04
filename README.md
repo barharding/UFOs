@@ -29,6 +29,6 @@ Drawbacks:
 - The user experience is poor when using filters.  Such as the need to delete the data in the entry fields from a previous search.
 
 Enchancements:
-- Make the search filters more user friendly but allowing partial string searchs and remove the case sensitivity
+- Make the search filters more user friendly by allowing partial string searchs and remove the case sensitivity
 - Clear the fields after a search is executed
 
