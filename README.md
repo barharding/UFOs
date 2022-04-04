@@ -16,7 +16,10 @@ There is a description of how to perform a search, with images. (4 pt)
 
 ![date search](/static/images/Date_search.png)
 
-***Figure 3: Multi-filter Search***
+***Figure : Shape Search***
+![Multi-filter Search](static/images/shape_search.png)
+
+***Figure 4: Multi-filter Search Shape & State***
 ![Multi-filter Search](static/images/multi-filter_shape_and_state_search.png)
 
 
