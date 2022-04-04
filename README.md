@@ -32,4 +32,3 @@ Enchancements:
 - Make the search filters more user friendly but allowing partial string searchs and remove the case sensitivity
 - Clear the fields after a search is executed
 
-The summary addresses two additional recommendations for further development (4 pt)
