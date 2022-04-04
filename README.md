@@ -24,5 +24,12 @@ Figures 2 through 4 shows the variety of searchs a user can enter.  As the user 
 
 ## Summary
 
-The summary addresses one drawback of this webpage (2 pt)
+Drawbacks:
+- One drawback of this solution is the data file is static and old.
+- The user experience is poor when using filters.  Such as the need to delete the data in the entry fields from a previous search.
+
+Enchancements:
+- Make the search filters more user friendly but allowing partial string searchs and remove the case sensitivity
+- Clear the fields after a search is executed
+
 The summary addresses two additional recommendations for further development (4 pt)
