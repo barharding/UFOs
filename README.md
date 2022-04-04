@@ -9,8 +9,7 @@ This initiative works on improving the web experience for users accessing the UF
 
 ## Results
 
-There is a description of how to perform a search, with images. (4 pt)
-
+Figures 2 through 4 shows the variety of searchs a user can enter.  As the user enters data they need to click outside the data entry field or press the enter key for the search to execute.  Once it executes the table is re-populated with the search results.  If no result are found the table is returned as empty.  To run another search the user has to clear the fields of the previous search and/or type over the criteria and then press enter.
 
 ***Figure 2: Date Search***
 
